@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "995516416199",
+    "firebase_url": "https://dbtest-117cc-default-rtdb.firebaseio.com",
+    "project_id": "dbtest-117cc",
+    "storage_bucket": "dbtest-117cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995516416199:android:6df37f473c9f6fff863ee2",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTkcPXIxdcu7h69k1OKVcQx-HwXGugCmM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995516416199:android:9ff04417aaf40b85863ee2",
+        "android_client_info": {
+          "package_name": "com.example.zaoch2ip"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTkcPXIxdcu7h69k1OKVcQx-HwXGugCmM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
